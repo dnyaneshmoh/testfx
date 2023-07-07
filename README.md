@@ -1,4 +1,4 @@
-# Microsoft Test Framework Tst for KT session
+# Microsoft Test Framework
 
 Welcome to the MSTest repository (starting from v2), home of the Microsoft Test Framework and Adapter. MSTest is currently in use in a variety of scenarios including:
 
