@@ -1,4 +1,4 @@
-# Microsoft Test Framework
+# Microsoft Test Framework - KT session for Chris
 
 Welcome to the MSTest repository (starting from v2), home of the Microsoft Test Framework and Adapter. MSTest is currently in use in a variety of scenarios including:
 

@@ -2,3 +2,7 @@
   "RetryCountLimit": 1,
   "RetryByAnyError": false
 }
+{
+  "RetryCountLimit": 1,
+  "RetryByAnyError": false
+}
